@@ -3,25 +3,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joao-Eleuterio&hide_border=true&border_radius=5&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1200&stroke=FFFFFF&ring=EB9C40&fire=EB9C40&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FFFFFF&background=8F1212)](https://git.io/streak-stats)
 
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Joao-Eleuterio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Joao-Eleuterio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Joao-Eleuterio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</picture>
-
-
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="your-linkedin-URL">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joao-Eleuterio&show_icons=true&title_color=FFFFFF&bg_color=8F1212&text_color=FFFFFF&icon_color=EB9C40" />
+  <div>
+   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -30,6 +15,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </div>
 </div>
 
 
