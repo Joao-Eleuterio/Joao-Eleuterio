@@ -65,7 +65,7 @@ Personal productivity and habit-tracking application built with **React and Supa
 ### [Lista da Avó](https://github.com/Joao-Eleuterio/lista-da-avo)
 A real-time collaborative shopping-list PWA using **Supabase**, shared family data and external product APIs.
 
-### [Traffic Sign Detection](https://github.com/Joao-Eleuterio/Deteccao-de-sinais-de-transito)
+### [Traffic Sign Detection](https://github.com/Joao-Eleuterio/traffic-sign-detection)
 Computer-vision project for detecting and classifying road signs using image-processing techniques and OpenCV.
 
 ---
